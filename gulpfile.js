@@ -1,5 +1,5 @@
 let project_folder = "dist";
-let source_folder = "scr";
+let source_folder = "src";
 
 let path = {
     build: {
